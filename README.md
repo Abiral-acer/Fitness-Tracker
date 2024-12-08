@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-A simple **Fitness Tracker** web application created as part of the **100 JavaScript Projects** series. This project allows users to log their fitness activities and track the duration for each entry.
+A simple **Fitness Tracker** web application . This project allows users to log their fitness activities and track the duration for each entry.
 
 ## 📝 Features
 - Add fitness activities with their respective durations.
